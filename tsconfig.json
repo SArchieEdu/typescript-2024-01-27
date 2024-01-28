@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "moduleResolution": "Node16",
+    "allowJs": true,
+    "strict": true,
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "outDir": "lib",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true
+  },
+  "include": ["src"],
+}
